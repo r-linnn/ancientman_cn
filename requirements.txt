@@ -1,0 +1,14 @@
+# Ancientman Mode - Python Dependencies
+
+# Core dependencies
+# No external dependencies required for basic functionality
+
+# Development dependencies (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Documentation dependencies (optional)
+mkdocs>=1.4.0
+mkdocs-material>=8.5.0
