@@ -212,9 +212,7 @@ pytest --cov=ancientman tests/
 
 ---
 
-## 📮 联系方式0
-v:lcx1186401317
-email:1186401318@qq.com
+
 
 如有问题或建议，欢迎提交 Issue 或 Pull Request。
 
